@@ -1,0 +1,24 @@
+{
+  "name": "appteste",
+  "description": "",
+  "main": "node-server.js",
+  "authors": [
+    "Dayana <dayana.silva@ccc.ufcg.edu.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.6",
+    "angular-route": "^1.7.6",
+    "bootstrap": "^4.2.1",
+    "jQuery": "^3.3.1",
+    "angular-resource": "^1.7.6"
+  }
+}
